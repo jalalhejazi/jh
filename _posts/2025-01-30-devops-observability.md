@@ -81,6 +81,8 @@ Below are some popular categories of tools:
 
 ## The Challenges in Observability
 
+[Origin from honeycomb:](https://www.honeycomb.io/blog/what-is-observability-key-components-best-practices)
+
 While observability can be a powerful practice, it also comes with challenges that companies and teams must address:
 
 - **Data volume, noise, and costs:** Vast amounts of data that is not equally valuable can be overwhelming to manage, evaluate, and analyze. Sampling can be useful in lessening the time and financial burdens of telemetry.
@@ -89,7 +91,7 @@ While observability can be a powerful practice, it also comes with challenges th
 - **Data privacy and security:** Protecting observability data, which may contain sensitive information such as user data or access logs, requires investment and planning.
 - **Distributed systems complexity:** Ensuring consistent observability practices across multiple services can be complex and difficult to manage.
 - **Instrumentation overhead:** Adding observability instrumentation to applications can introduce overhead, impacting performance.
-- **Skills and training:** Effectively using observability tools and interpreting data may require training to obtain skills and harness the full potential of observability. This is true of some tools—however, we at Honeycomb understand this challenge and frequently add features to make observability accessible to everyone. Our Query Assistant, for example, allows engineers to query their systems in plain English.
+- **Skills and training:** Effectively using observability tools and interpreting data may require training to obtain skills and harness the full potential of observability.
 - **Cultural shift:** Adopting observability may require overcoming resistance to changing towards data-driven decision-making and collaboration across teams.
 - **Data retention policies:** Determining how long to retain observability data for analysis and compliance purposes may require a legal investment.
 

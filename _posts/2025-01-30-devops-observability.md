@@ -79,6 +79,23 @@ Below are some popular categories of tools:
 
 ---
 
+## The Challenges in Observability
+
+While observability can be a powerful practice, it also comes with challenges that companies and teams must address:
+
+- **Data volume, noise, and costs:** Vast amounts of data that is not equally valuable can be overwhelming to manage, evaluate, and analyze. Sampling can be useful in lessening the time and financial burdens of telemetry.
+- **Data variety:** Combining and correlating data from logs, metrics, and traces can be complex, especially when different components use different data types, formats, structures, or standards. Frameworks like [OpenTelemetry](https://opentelemetry.io/) can alleviate this pain point.
+- **Real-time processing:** Achieving low-latency data processing of observability data at scale can be technically difficult and resource-intensive.
+- **Data privacy and security:** Protecting observability data, which may contain sensitive information such as user data or access logs, requires investment and planning.
+- **Distributed systems complexity:** Ensuring consistent observability practices across multiple services can be complex and difficult to manage.
+- **Instrumentation overhead:** Adding observability instrumentation to applications can introduce overhead, impacting performance.
+- **Skills and training:** Effectively using observability tools and interpreting data may require training to obtain skills and harness the full potential of observability. This is true of some tools—however, we at Honeycomb understand this challenge and frequently add features to make observability accessible to everyone. Our Query Assistant, for example, allows engineers to query their systems in plain English.
+- **Cultural shift:** Adopting observability may require overcoming resistance to changing towards data-driven decision-making and collaboration across teams.
+- **Data retention policies:** Determining how long to retain observability data for analysis and compliance purposes may require a legal investment.
+
+
+---
+
 ## Getting Started with DevOps Observability
 
 1. **Identify Key Business Metrics**  
@@ -92,6 +109,7 @@ Below are some popular categories of tools:
 
 ---
 
+
 ## Conclusion
 
 DevOps observability is about **empowering teams** with the right data to proactively manage and optimize the entire software delivery pipeline. By combining metrics, logs, and traces, organizations can quickly detect, diagnose, and resolve issues—ultimately delivering more resilient and high-performing applications.
@@ -104,3 +122,4 @@ DevOps observability is about **empowering teams** with the right data to proact
 - [OpenTelemetry Documentation](https://opentelemetry.io/)  
 - [Prometheus Monitoring](https://prometheus.io/)  
 - [Elastic Stack Observability](https://www.elastic.co/observability)  
+- [DataDog Observability platform](https://www.datadoghq.com/monitoring/observability-platform/)

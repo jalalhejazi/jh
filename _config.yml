@@ -9,7 +9,7 @@ github_username: jalalhejazi
 # Build settings
 markdown: GFM
 theme: minima
-show_excerpts: true
+show_excerpts: false
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

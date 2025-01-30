@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DevOps Observability"
-date:   2025-xx-xx 18:28:49 +0100
+date:   2025-01-30 18:28:49 +0100
 categories: devops observability
 ---
 

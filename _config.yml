@@ -2,7 +2,7 @@
 title: Jalal's blog
 author: Jalal Hejazi
 #email: your-email@example.com
-description: Continuous learning and innovation 
+description: Continuous learning
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://jalalhejazi.github.io
 github_username: jalalhejazi

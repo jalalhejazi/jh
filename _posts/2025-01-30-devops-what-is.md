@@ -64,6 +64,6 @@ DevOps transforms how organizations **build, test, and release software** by pro
 - [The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)  
 - [AWS DevOps Documentation](https://aws.amazon.com/devops/)  
 - [Azure DevOps Services](https://azure.microsoft.com/en-us/services/devops/)  
-- [GitLab DevOps Topics](https://docs.gitlab.com/ee/topics/devops/)
+
 
 

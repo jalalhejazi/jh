@@ -2,7 +2,7 @@
 layout: post
 title:  "DevOps Observability"
 date:   2025-01-30 18:28:49 +0100
-categories: devops observability
+categories: devops
 ---
 
 # DevOps Observability: What Is It?

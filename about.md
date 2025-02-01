@@ -5,17 +5,21 @@ permalink: /about/
 ---
 
 About Me
+My name is Jalal Hejazi, a Software Engineer passionate about leveraging automation, DevOps, cloud computing, and responsible AI adoption to drive innovation and operational excellence.
 
-My name is Jalal Hejazi. I am a Software Engineer passionate about leveraging Automation, DevOps, Cloud Computing and Responsible AI adoption. 
+Beyond technical expertise, I am deeply invested in learning, development, and knowledge-sharing, ensuring that teams are equipped with the right skills to succeed in evolving technological landscapes.
 
-My work is driven by 3 core values of (openness, accountability, and respect) shaping both my technical approach and professional interactions.
+I operate with three core values that define my work and leadership approach:
 
-🤝 Openness: Driving Collaboration & Growth I believe that sharing knowledge, embracing new technologies, and fostering cross-functional collaboration are essential for advancing healthy innovation. I actively engage in continuous learning and knowledge exchange to stay ahead of industry trends.
+🤝 Openness: Fostering Collaboration & Growth
+I believe in the power of knowledge-sharing, structured learning, and continuous improvement. I actively develop and contribute to training programs, ensuring that teams remain agile and up-to-date with industry advancements.
 
-✅ Accountability: Building Trust through Excellence I take full ownership of my work, ensuring that every solution I develop is reliable, secure, and aligned with regulatory and industry standards. My approach is rooted in delivering high-quality software that drives measurable impact.
+✅ Accountability: Driving Excellence in Learning & Development
+I take full ownership of my work, ensuring that training processes, technology adoption, and compliance align with industry best practices. I am experienced in building structured learning modules that support professional growth, operational efficiency, and compliance-driven environments.
 
-💡Respect: Creating Inclusive & Ethical Solutions I am committed to ethical AI practices and responsible cloud computing, ensuring that technology serves both clients and providers with fairness, transparency, and security. I value diverse perspectives and champion inclusive teamwork.
+💡 Respect: Championing Inclusive & Ethical Learning
+I am committed to ethical AI and responsible technology adoption, ensuring that training and development programs are inclusive, transparent, and aligned with industry standards. I value diverse perspectives and stakeholder collaboration, fostering an environment where learning thrives.
 
-As I continue to explore the intersection of AI, cloud computing, and education, I am eager to connect with like-minded professionals, exchange ideas, and collaborate on cutting-edge solutions that transform the industry.
+As I continue to explore the intersection of AI, cloud computing, and education, I am eager to develop training frameworks, support competency development, and drive impactful learning initiatives.
 
 📩 Let’s connect and innovate for a healthier future!

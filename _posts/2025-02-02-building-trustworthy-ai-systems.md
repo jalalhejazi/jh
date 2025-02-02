@@ -6,62 +6,49 @@ categories: AI
 ---
 
 
+![]({{ site.url }}/assets/certificate-trust-ai.png)
 
-## Reference Standard:  ISO/IEC TR 24028 for AI Trustworthiness
-- https://cdn.standards.iteh.ai/samples/77608/76004329cc2f49e5803a0ba7d8104f81/ISO-IEC-TR-24028-2020.pdf
+- https://www.linkedin.com/learning/certificates/e63512afe03e3043ce494af3d9acf746a4273108012542d361d2045525900d7c
 
+
+
+--- 
 
 ![]({{ site.url }}/assets/building-trustworthy-ai-systems.png)
 
+--- 
 
 
-## Trustworthiness in AI: Navigating Transparency, Explainability, and Controllability
+## Key Takeaways
 
-As the global regulatory and legal environments work to catch up with the rapidly evolving world of artificial intelligence (AI), many mandates now require proof of trustworthiness in AI system development and deployment. Ensuring AI systems adhere to principles such as explainability, transparency, and controllability is crucial for their responsible adoption. 
+### 🔹 Trust in AI
+Building trust in AI is crucial for its success. Addressing issues such as **bias, unpredictability, and lack of transparency** is essential to create reliable AI systems.
 
-## Leveraging ISO/IEC TR 24028 for AI Trustworthiness
+### 🔹 Risk-Based Approach
+Organizations should adopt a **risk-based approach**, considering the impact of AI on:
+- Users
+- Partners
+- Society
+- Themselves
 
-The ISO/IEC TR 24028 standard provides guidance on achieving AI trustworthiness. This framework helps organizations integrate principles that foster confidence in AI-driven decisions. In this post, we explore how AI developers and engineers can apply these principles effectively.
+By doing so, they can work to **minimize potential risks**.
 
-## Key Principles of Trustworthiness in AI
+### 🔹 Clear Policies and Processes
+To ensure AI systems remain trustworthy, organizations should:
+- Implement **clear policies** and **structured processes**.
+- Tailor these policies to specific **use cases**.
+- Identify and address potential **vulnerabilities**.
 
-### 1. **Transparency**
-Transparency involves making AI decision-making processes and methodologies understandable. This includes:
-- Providing clear documentation on data sources and model architectures.
-- Ensuring stakeholders can access relevant system information.
-- Adopting open standards where possible.
+### 🔹 Continuous Improvement
+The journey to trustworthy AI requires **continuous improvement** by:
+- Leveraging **emerging methods**.
+- Enhancing the **reliability** and **control** of AI systems.
 
-### 2. **Explainability**
-Explainability ensures that AI system outputs can be interpreted and justified by users and stakeholders. Methods to improve explainability include:
-- Using interpretable models or post-hoc explainability techniques.
-- Visualizing decision pathways and feature importance.
-- Enabling domain experts to validate model behavior.
+---
 
-### 3. **Controllability**
-Controllability allows human oversight and intervention when necessary. AI systems should:
-- Enable manual overrides where critical decisions are involved.
-- Allow configurable settings for different risk levels.
-- Implement robust monitoring and feedback mechanisms.
+### 🛠 Want to Learn More?
+Check out the official documentation and research on AI trustworthiness:
+- [ISO/IEC TR 24028](https://www.iso.org/standard/77608.html) - Overview of Trustworthiness in AI
+- [Responsible AI Principles](https://ai.google/responsibility/principles/) - Google's AI Ethics and Responsible AI Guidelines
 
-## Addressing AI Risks and Engineering Pitfalls
-
-AI systems are susceptible to risks, including bias, security vulnerabilities, and system failures. Common threats include:
-- **Data Bias:** Unbalanced training data can lead to unfair decisions.
-- **Adversarial Attacks:** AI models can be manipulated with subtle input modifications.
-- **System Downtime:** Lack of resiliency measures can cause failures.
-
-### Mitigation Techniques:
-- Conduct bias audits and implement fairness-aware algorithms.
-- Employ adversarial training and robust model validation.
-- Design fail-safe mechanisms for system recovery.
-
-## Enhancing AI System Trustworthiness
-
-To build more trustworthy AI systems, developers and organizations can:
-1. **Improve Availability and Resiliency** – Ensure AI models are robust against failures and accessible when needed.
-2. **Enhance Reliability and Accuracy** – Regularly validate and benchmark AI performance.
-3. **Prioritize Security and Privacy** – Adopt encryption, differential privacy, and secure model deployment practices.
-
-
-
-
+📌 _Let's work together to build AI that is transparent, fair, and safe!_

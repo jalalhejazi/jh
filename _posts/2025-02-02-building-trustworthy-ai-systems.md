@@ -2,7 +2,7 @@
 layout: post
 title:  "Building Trustworthy AI Systems"
 date:   2025-02-02 14:30:00 +0100
-categories: AI 
+categories: trust 
 ---
 
 ![]({{ site.url }}/assets/certificate-trust-ai.png)

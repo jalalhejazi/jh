@@ -5,18 +5,10 @@ date:   2025-02-02 14:30:00 +0100
 categories: AI 
 ---
 
-
 ![]({{ site.url }}/assets/certificate-trust-ai.png)
 
 - https://www.linkedin.com/learning/certificates/e63512afe03e3043ce494af3d9acf746a4273108012542d361d2045525900d7c
 
-
-
---- 
-
-![]({{ site.url }}/assets/building-trustworthy-ai-systems.png)
-
---- 
 
 
 ## Key Takeaways

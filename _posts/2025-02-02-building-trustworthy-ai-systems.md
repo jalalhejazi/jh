@@ -7,13 +7,15 @@ categories: AI
 
 
 
-## origin: 
+## Reference Standard:  ISO/IEC TR 24028 for AI Trustworthiness
+- https://cdn.standards.iteh.ai/samples/77608/76004329cc2f49e5803a0ba7d8104f81/ISO-IEC-TR-24028-2020.pdf
+
 
 ![]({{ site.url }}/assets/building-trustworthy-ai-systems.png)
 
 
 
-# Trustworthiness in AI: Navigating Transparency, Explainability, and Controllability
+## Trustworthiness in AI: Navigating Transparency, Explainability, and Controllability
 
 As the global regulatory and legal environments work to catch up with the rapidly evolving world of artificial intelligence (AI), many mandates now require proof of trustworthiness in AI system development and deployment. Ensuring AI systems adhere to principles such as explainability, transparency, and controllability is crucial for their responsible adoption. 
 
